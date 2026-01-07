@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917942637604",
+    "project_id": "zenvy-4d457",
+    "storage_bucket": "zenvy-4d457.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917942637604:android:380809035f69828f9ff4b1",
+        "android_client_info": {
+          "package_name": "com.example.zenvy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUi1faoCUkfD0qS_fZWm5Zv2UNa4laanY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
